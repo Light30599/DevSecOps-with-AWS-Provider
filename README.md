@@ -54,6 +54,7 @@ The architecture of this project consists of the following components:
 - Log visualization: Graylog
 - Log shipping: Elasticsearch Filebeat
 For a visual representation of the architecture, refer to the architecture.png file in the repository.
+
 ![AWS Architecture Diagram](architecture.png)
 
 
