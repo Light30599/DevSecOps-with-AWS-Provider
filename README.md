@@ -21,7 +21,7 @@ DevSecOps with AWS Provider is a project that combines infrastructure provisioni
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/Light30599/DevSecOps-with-AWS-Provider.git)
 
 ```
 2. Install the necessary dependencies:
